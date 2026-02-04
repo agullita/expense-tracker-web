@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Expense Tracker - Gestor de Gastos Inteligente',
+  title: 'The Fixer - Gestor de Gastos Inteligente',
   description: 'Sube fotos de tus tickets y gestiona tus gastos con conversión automática de moneda',
 }
 

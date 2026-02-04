@@ -119,7 +119,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">💰 Expense Tracker</h1>
+              <h1 className="text-3xl font-bold text-gray-900">🔧 The Fixer</h1>
               <p className="text-gray-600 mt-1">Gestor inteligente de gastos con IA</p>
             </div>
             <div className="flex gap-3">
@@ -223,7 +223,7 @@ export default function Home() {
       <footer className="bg-white border-t border-gray-200 mt-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <p className="text-center text-gray-600">
-            Hecho con ❤️ usando Next.js + Gemini AI
+            The Fixer - Hecho con ❤️ usando Next.js + Gemini AI
           </p>
         </div>
       </footer>
